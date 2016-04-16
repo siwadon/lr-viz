@@ -32,5 +32,10 @@
   "pre-comit": [
     "lint",
     "jscs"
-  ]
+  ],
+  "dependencies": {
+    "lodash": "^4.11.1",
+    "moment": "^2.12.0",
+    "sqlite3": "^3.1.3"
+  }
 }
