@@ -1,0 +1,27 @@
+{
+  "name": "lr-viz",
+  "version": "1.0.0",
+  "description": "Lightroom catalog visualizer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/idewz/lr-viz.git"
+  },
+  "keywords": [
+    "lightroom",
+    "catalog",
+    "visual"
+  ],
+  "author": "Siwadon Saosoong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idewz/lr-viz/issues"
+  },
+  "homepage": "https://github.com/idewz/lr-viz#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.6"
+  }
+}
